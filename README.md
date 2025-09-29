@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!-- Header / Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20there!%20I%27m%20Faisal%20(%E2%80%9CTom%20Riddle%E2%80%9D)&animation=fadeIn&color=gradient&height=120" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeAuto&text=Hey%20there!%20I'm%20Faisal&section=header" alt="banner" />
 </p>
 
-<h1 align="center">Faisal (“Tom Riddle”)</h1>
+<h1 align="center">Faisal Ahmed</h1>
 <p align="center">Android & Mobile Developer | Open Source Enthusiast | Problem Solver</p>
 
 ---
@@ -111,10 +111,10 @@ If you’re working on something cool and think I can help, feel free to open an
 
 | Platform | Link |
 |---|---|
-| GitHub | [github.com/tomriddle25](https://github.com/tomriddle25) |
-| LinkedIn | *your‑LinkedIn‑URL* |
-| Email | *your.email@example.com* |
-| Portfolio / Blog | *your‑portfolio‑site* |
+| GitHub | [tomriddle25](https://github.com/tomriddle25) |
+| LinkedIn | [faisalahmedandroid](https://www.linkedin.com/in/faisalahmedandroid) |
+| Email | faisalahmedwork1@gmail.com |
+| Blog | [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) |
 
 Let’s connect — I’m open for freelancing, collaboration, open source work, or full-time roles.  
 
