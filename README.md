@@ -1,126 +1,129 @@
-## Hi there 👋
-
-<!--
-**tomriddle25/tomriddle25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- Header / Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeAuto&text=Hey%20there!%20I'm%20Faisal&section=header" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,19,24,30&text=Faisal%20Ahmed&fontSize=50&fontAlign=50&fontAlignY=35&desc=Senior%20Android%20Engineer&descSize=20&descAlign=50&descAlignY=55&animation=twinkling" alt="banner" />
 </p>
 
-<h1 align="center">Faisal Ahmed</h1>
-<p align="center">Android & Mobile Developer | Open Source Enthusiast | Problem Solver</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/faisalahmedandroid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:faisalahmedwork1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/iamnottomriddle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://medium.com/@faisalahmedwork1"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tomriddle25">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&random=false&width=600&lines=Building+Android+products+at+scale;1M%2B+users+on+my+chat+SDK;Open+source+enthusiast;Always+learning+something+new" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 🧰 About Me
+### 👨‍💻 About
 
-```yaml
-Name: Faisal (“Tom Riddle”)
-Pronouns: he/him
-Location: Bengaluru, India
-Current Focus: Android / Kotlin / Jetpack / Modern Mobile Architectures
-Fields of Interest: App Development, Open Source, System Design, Clean Architecture
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+7+ years building Android products at scale. Currently the sole Android architect at **[Springchat](https://github.com/SpringchatApp)**, where I built an enterprise chat SDK from scratch — now serving **1M+ monthly active users** across multiple clients.
+
+I care about clean architecture, performance, and building things that last.
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Open Source
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/quiph/RecyclerView-FastScroller"><b>⭐ RecyclerView-FastScroller</b></a><br/>
+      <sub>846+ stars • Fully customizable fast scroller for RecyclerView, written in Kotlin</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/quiph/RecyclerView-FastScroller?style=social" />
+    </td>
+    <td>
+      <a href="https://github.com/tomriddle25/Kyklos"><b>🔄 Kyklos</b></a><br/>
+      <sub>Subscription tracker built with Kotlin Multiplatform + Compose Multiplatform</sub><br/><br/>
+      <img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+      <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/tomriddle25/howami"><b>🦀 howami</b></a><br/>
+      <sub>CLI mood tracker — learning Rust by building something useful</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/CLI-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white" />
+    </td>
+    <td>
+      <a href="https://github.com/android/snippets"><b>📱 android/snippets</b></a><br/>
+      <sub>Contributor to official Android code samples on developer.android.com</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Contributor-3DDC84?style=flat-square&logo=android&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📝 Writing
+
+<a href="https://medium.com/kotlin-academy/building-your-first-kotlin-multiplatform-app-from-setup-to-ios-app-store-with-compose-e4d3f4c6767c">
+  <img src="https://img.shields.io/badge/📌_Featured-Building_Your_First_KMP_App:_From_Setup_to_iOS_App_Store-000000?style=for-the-badge&logo=medium" />
+</a>
+
+<br/><br/>
+
+More articles on [Medium @faisalahmedwork1](https://medium.com/@faisalahmedwork1)
+
+---
+
+### 🌱 Currently Exploring
+
+<img align="right" alt="Cat Typing" width="250" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
+
+```
+├── Kotlin Multiplatform    → Cross-platform without compromise
+├── Rust                    → Systems programming & CLI tools  
+└── iOS / Swift             → Understanding the other side
 ```
 
-I build mobile solutions that bring value to users. With a grounding in Android and mobile tech, I love solving complex problems, learning new frameworks, and collaborating with other engineers. On GitHub, you’ll find my side-projects, experiments, and contributions to open‑source.
+<br clear="right"/>
 
 ---
-
-## ✨ Skills & Technologies
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff)
-![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=fff)
-
----
-
-## 🚀 Currently Learning
-
-- Kotlin Multiplatform (KMP)
-- Swift & iOS Development
-- Backend concepts (APIs, lightweight services)
-- Open Source contribution best practices
-
-![Learning GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-
----
-
-## 🏗️ Notable Projects
-
-| Project | Description | Tech / Highlights |
-|---|---|---|
-| **Kyklos** | Android library for lifecycle-aware components | Kotlin, Android Jetpack |
-| **RecyclerView-FastScroller** | Custom fast scroller for RecyclerView | Custom Views, UI/UX |
-| **QGamesJSInterfaceTester** | Tool for testing JS interfaces in Android WebView | Android, JavaScript |
-| **ivy-wallet (contrib)** | Personal finance app | Kotlin, Compose, OSS Contribution |
-| **android/snippets** | Collection of Android development snippets | Kotlin, Learning & Sharing |
-
-You can browse all my public projects in [my repositories](https://github.com/tomriddle25?tab=repositories).
-
----
-
-## 📝 Writing
-
-- 📌 Featured: [Building Your First Kotlin Multiplatform App: From Setup to iOS App Store with Compose](https://medium.com/kotlin-academy/building-your-first-kotlin-multiplatform-app-from-setup-to-ios-app-store-with-compose-e4d3f4c6767c)  
-- ✍️ More articles on [Medium @faisalahmedwork1](https://medium.com/@faisalahmedwork1)
-
----
-
-## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomriddle25&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=tomriddle25&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
-<sub>Generated via [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)</sub>
+<p align="center">
+  <sub>🐍 "After all this time? Always."</sub>
+</p>
 
----
-
-## 🤝 Open Source & Community
-
-I love giving back. Here’s how I contribute:
-
-- 🛠️ **Bug fixes, feature PRs** in libraries I use  
-- 📣 **Technical blog posts / talks**  
-- 🧪 **Code reviews & mentoring** — helping juniors sharpen their skills  
-
-If you’re working on something cool and think I can help, feel free to open an issue or ping me. I’m always open to collaboration.
-
----
-
-## 📫 Get in Touch
-
-| Platform | Link |
-|---|---|
-| GitHub | [tomriddle25](https://github.com/tomriddle25) |
-| LinkedIn | [faisalahmedandroid](https://www.linkedin.com/in/faisalahmedandroid) |
-| Email | faisalahmedwork1@gmail.com |
-| Blog | [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) |
-
-Let’s connect — I’m open for freelancing, collaboration, open source work, or full-time roles.  
-
----
-
-**Thanks for stopping by!**  
-🐍 “After all this time? Always.”  
-> “Words are as powerful as magic.”  
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,12,19,24,30&section=footer" />
+</p>
